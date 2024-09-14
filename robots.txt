@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://outatimat.github.io/sitemap.html.gz
+Sitemap: https://outatimat.github.io/app/sitemap.html.gz
+Sitemap: https://outatimat.github.io/assets/sitemap.html.gz
+Sitemap: https://outatimat.github.io/css/sitemap.html.gz
+Sitemap: https://outatimat.github.io/includes/sitemap.html.gz
+Sitemap: https://outatimat.github.io/item/sitemap.html.gz
+Sitemap: https://outatimat.github.io/src/sitemap.html.gz
